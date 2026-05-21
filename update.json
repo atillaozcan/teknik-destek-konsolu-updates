@@ -1,11 +1,11 @@
 {
-  "version": "2.2.0",
+  "version": "2.3.0",
   "date": "2026-05-20",
-  "notes": "FAZ 7 + FAZ 8 + FAZ 9. Kurumsal guvenlik, AI Asistan, PC Yonetimi birlesik ekran, otomatik guncelleme.",
+  "notes": "Dark theme + Otomatik guncelleme. Koyu tema varsayilan oldu, tek tikla guncelleme eklendi.",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/atillaozcan/teknik-destek-konsolu-updates/releases/download/v2.2.0/Teknik-Destek-Konsolu-2.2.0-aarch64.app.tar.gz",
-      "size": 33560725
+      "url": "https://github.com/atillaozcan/teknik-destek-konsolu-updates/releases/download/v2.3.0/Teknik-Destek-Konsolu-2.3.0-aarch64.app.tar.gz",
+      "size": 33586953
     },
     "windows-x86_64": {
       "url": "",
