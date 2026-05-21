@@ -1,7 +1,7 @@
 {
-  "version": "2.2.0",
+  "version": "2.3.0",
   "date": "2026-05-20",
-  "notes": "Guncelleme testi. Test sekmesi eklendi.",
+  "notes": "Banner testi - bu gercek guncelleme degil.",
   "platforms": {
     "darwin-aarch64": {
       "url": "https://github.com/atillaozcan/teknik-destek-konsolu-updates/releases/download/v2.2.0/Teknik-Destek-Konsolu-2.2.0-aarch64.app.tar.gz",
