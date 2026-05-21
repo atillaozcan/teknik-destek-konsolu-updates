@@ -1,11 +1,11 @@
 {
-  "version": "2.3.0",
+  "version": "2.4.0",
   "date": "2026-05-20",
-  "notes": "Dark theme + Otomatik guncelleme. Koyu tema varsayilan oldu, tek tikla guncelleme eklendi.",
+  "notes": "Super Admin Paneli eklendi. Sistem ayarlari, kullanici yonetimi, audit log ve veritabani yonetimi tek panelde.",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/atillaozcan/teknik-destek-konsolu-updates/releases/download/v2.3.0/Teknik-Destek-Konsolu-2.3.0-aarch64.app.tar.gz",
-      "size": 33586953
+      "url": "https://github.com/atillaozcan/teknik-destek-konsolu-updates/releases/download/v2.4.0/Teknik-Destek-Konsolu-2.4.0-aarch64.app.tar.gz",
+      "size": 33589670
     },
     "windows-x86_64": {
       "url": "",
